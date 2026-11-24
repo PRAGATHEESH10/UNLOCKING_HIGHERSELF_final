@@ -59,7 +59,7 @@ const COURSE = [
         exercises: [
           {
             title: "Observer State Meditation",
-            link: "https://www.youtube.com/watch?v=dZyRFMY8kx8",
+            link: "https://youtu.be/nWFiFMYoyuE?si=7YrZTdwkOmwPVElp",
           },
           {
             title: "Present Moment Practice",
